@@ -1,6 +1,6 @@
 # InfoAL
 
-##Motivation
+## Motivation
 
 This project provides a method for generating training data for entity resolution problems. The goal of entity resolution 
 is to identify records representing the same real world entity. For instance, the identification of duplicates for two 
