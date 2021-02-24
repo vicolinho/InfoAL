@@ -11,7 +11,7 @@ Therefore, machine learning techniques are used to determine classification mode
 to classify pairs based on the similarity vectors as match or non-match.
 
 
-###DBLP
+### DBLP
 | id | title | authors  | venue | year|
 |---|------|------------|-------|------|
 | 1 | Phoenix Project: Fault-Tolerant Applications | R Barga, D Lomet | SIGMOD Record | 2002
@@ -19,14 +19,14 @@ to classify pairs based on the similarity vectors as match or non-match.
 "conf/vldb/MoserKK95","L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS","F Moser, A Kraiss, W Klas","VLDB",1995
 "journals/sigmod/Konig-RiesMMPPRSVW02","Report on the NSF Workshop on Building an Infrastructure for Mobile and Wireless Systems","N/A","N/A",2002
 
-###Google Scholar
+### Google Scholar
 | id | title | authors  | venue | year|
 |---|------|------------|-------|------|
 |1 | Phoenix Project: Fault Tolerant Applications | D Lomet, R Barga | SIGMOD Record, | |
 |2 | Mining the world wide web: an information search approach by George Chang, Marcus J. Healey (editor) | A Ouksel | ACM SIGMOD Record, | 2002|
 |3| L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS | F Moser, W Klas | PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE  &hellip;,| 1995|
 
-##Workflow
+## Workflow
 
 Input (simplified): 
  - similarity vectors where each vector represents a record pair (The similarities must already be computed.)
