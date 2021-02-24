@@ -1,0 +1,8 @@
+/data_model/target/
+/data_model/dependency-reduced-pom.xml
+/data_model/data_model.iml
+/info_active_learning/info_active_learning.iml
+/info_active_learning/dependency-reduced-pom.xml
+/info_active_learning/target/
+/InfoAL.iml
+/.idea/
