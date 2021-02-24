@@ -1,0 +1,3 @@
+-i E:/data/weightvectors/cora-weight-vectors.csv/cora-weight-vectors.csv -g E:/data/weightvectors/cora-weight-vectors.csv/cora-weight-vectors.csv -s Farthest_First -b 200 -k 30 -a 0.5 -r E:/data/weightvectors/cora-weight-vectors.csv/result.csv
+
+-i E:/data/weightvectors/musicbrainz-weight-vectors.csv/musicbrainz-weight-vectors.csv -g E:/data/weightvectors/musicbrainz-weight-vectors.csv/musicbrainz-weight-vectors.csv -s Farthest_First -b 200 -k 30 -a 0.5 -r E:/data/weightvectors/cora-weight-vectors.csv/music_result.csv
