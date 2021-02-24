@@ -14,10 +14,9 @@ to classify pairs based on the similarity vectors as match or non-match.
 ### DBLP
 | id | title | authors  | venue | year|
 |---|------|------------|-------|------|
-| 1 | Phoenix Project: Fault-Tolerant Applications | R Barga, D Lomet | SIGMOD Record | 2002
-| 2 |Mining the World Wide Web: An Information Search Approach - Book Review | N/A |N/A | 2002
-"conf/vldb/MoserKK95","L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS","F Moser, A Kraiss, W Klas","VLDB",1995
-"journals/sigmod/Konig-RiesMMPPRSVW02","Report on the NSF Workshop on Building an Infrastructure for Mobile and Wireless Systems","N/A","N/A",2002
+| 1 | Phoenix Project: Fault-Tolerant Applications | R Barga, D Lomet | SIGMOD Record | 2002|
+| 2 |Mining the World Wide Web: An Information Search Approach - Book Review | N/A |N/A | 2002|
+|3 | L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS | F Moser, A Kraiss, W Klas | VLDB | 1995|
 
 ### Google Scholar
 | id | title | authors  | venue | year|
