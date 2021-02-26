@@ -35,3 +35,19 @@ Input (simplified):
 Output: 
 - set of labelled similarity vectors being used for generating a classifier
 
+## Using InfoAL
+you can test the application in the console.
+
+```
+java de.uni_leipzig.dbs.entity_resolution.examples.machineLearning.active.InformativenessActiveLearning -i example_data/cora-weight_vectors.csv -g example_data/weight_vectors.csv -s Farthest_First
+-b 200 -k 30 -a 0.5 -r cora_result.csv
+```
+
+Paramter | Description
+---------|-------------
+i | similarity vector file
+g | gold standard with labelled vectors 
+b | total number of records
+k | number of records per iteration
+a | weight of entropy and uncertainty
+r | output file for the quality evaluation     
