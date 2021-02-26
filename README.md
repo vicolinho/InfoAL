@@ -48,6 +48,6 @@ Paramter | Description
 i | similarity vector file
 g | gold standard with labelled vectors 
 b | total number of records
-k | number of records per iteration
+k | intended number of records per iteration
 a | weight of entropy and uncertainty
 r | output file for the quality evaluation     
